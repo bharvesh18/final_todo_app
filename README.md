@@ -20,7 +20,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/bharvesh18/final_todo_app
    ```
 
 2. **Navigate to the Project Directory**
